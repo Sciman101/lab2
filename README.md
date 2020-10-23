@@ -1,0 +1,1 @@
+![Gif showing the ball bouncing off walls and having randomized initial velocity](/pong/lab3.gif)
